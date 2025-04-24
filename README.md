@@ -8,7 +8,7 @@ This repository supports the *AI-Powered Vibe Coding* training series using Powe
 
 ## 📁 Sections
 
-- `Section1-ImportExcelCheck`: Check & install the ImportExcel module
-- `Section2-Ps2ExeGuiConverter`: Convert PowerShell scripts into signed EXE files with GUI support
+- `InstallExcelPowerShellModule`: Check & install the ImportExcel module
+- `ConvertScriptToExe`: Convert PowerShell scripts into signed EXE files with GUI support
 
 > Suitable for users with little or no coding experience who want to automate business tasks using AI and PowerShell.
